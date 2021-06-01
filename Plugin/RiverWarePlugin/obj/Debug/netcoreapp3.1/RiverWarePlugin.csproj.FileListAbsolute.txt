@@ -1,0 +1,11 @@
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\bin\Debug\netcoreapp3.1\RiverWarePlugin.exe
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\bin\Debug\netcoreapp3.1\RiverWarePlugin.deps.json
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\bin\Debug\netcoreapp3.1\RiverWarePlugin.runtimeconfig.json
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\bin\Debug\netcoreapp3.1\RiverWarePlugin.runtimeconfig.dev.json
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\bin\Debug\netcoreapp3.1\RiverWarePlugin.dll
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\bin\Debug\netcoreapp3.1\RiverWarePlugin.pdb
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\obj\Debug\netcoreapp3.1\RiverWarePlugin.csprojAssemblyReference.cache
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\obj\Debug\netcoreapp3.1\RiverWarePlugin.AssemblyInfoInputs.cache
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\obj\Debug\netcoreapp3.1\RiverWarePlugin.AssemblyInfo.cs
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\obj\Debug\netcoreapp3.1\RiverWarePlugin.dll
+C:\SkDevOps\RiverWarePlugin\Plugin\RiverWarePlugin\obj\Debug\netcoreapp3.1\RiverWarePlugin.pdb

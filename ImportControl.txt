@@ -1,0 +1,1 @@
+Starvation Data.PluginInput: file=C:\SkDevOps\RiverWarePlugin\PluginInput.dat
